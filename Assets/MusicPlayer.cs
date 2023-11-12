@@ -4,7 +4,7 @@ using UnityEngine;
 using UnityEngine.UI;
 
 
-public class radio : MonoBehaviour
+public class MusicPlayer : MonoBehaviour
 {
     [SerializeField] public AudioSource radioAudioSource;
     [SerializeField] Slider volumeSlider;

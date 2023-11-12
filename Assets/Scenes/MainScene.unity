@@ -973,7 +973,7 @@ GameObject:
   - component: {fileID: 944823423}
   - component: {fileID: 944823424}
   m_Layer: 0
-  m_Name: Slider
+  m_Name: VolumeSlider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1078,7 +1078,7 @@ GameObject:
   - component: {fileID: 970563645}
   - component: {fileID: 970563644}
   m_Layer: 0
-  m_Name: Button (2)
+  m_Name: NextTrackButton
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1391,7 +1391,7 @@ GameObject:
   - component: {fileID: 1212191725}
   - component: {fileID: 1212191724}
   m_Layer: 0
-  m_Name: Button
+  m_Name: PlayPauseButton
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3499,7 +3499,7 @@ GameObject:
   - component: {fileID: 1591853880}
   - component: {fileID: 1591853879}
   m_Layer: 0
-  m_Name: Button (1)
+  m_Name: PrevTrackButton
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3754,7 +3754,7 @@ GameObject:
   - component: {fileID: 1812922800}
   - component: {fileID: 1812922799}
   m_Layer: 0
-  m_Name: Canvas
+  m_Name: SimpleMusicPlayer
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
